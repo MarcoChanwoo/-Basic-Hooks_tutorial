@@ -1,4 +1,6 @@
-const { useState } = require("react");
+// const { useState } = require("react");
+
+import { useState } from "react";
 
 const Counter = () => {
   const [value, setValue] = useState(0);
