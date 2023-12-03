@@ -1,5 +1,5 @@
 import Counter from "./Counter";
-import { useState } from "react";
+// import { useState } from "react";
 import Info from "./Info";
 import Average from "./Average";
 

@@ -1,5 +1,6 @@
 // import { useState } = require("react");
-import { useReducer, useState } from "react";
+import { useReducer } from "react";
+// import { useState } from "react";
 
 function reducer(state, action) {
   // action.type에 따라 다른 작업 수행
